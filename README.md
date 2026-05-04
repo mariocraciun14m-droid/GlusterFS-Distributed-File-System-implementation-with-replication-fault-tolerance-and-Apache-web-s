@@ -1,6 +1,5 @@
-# glusterfs
-glusterfs assignment
 # GlusterFS Distributed File System Assignment
+glusterfs assignment
 
 ## Project Overview
 
