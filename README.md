@@ -1,3 +1,14 @@
+## Hosted Repository
+
+This project is fully documented and hosted on GitHub, including:
+- System architecture
+- Configuration steps
+- Testing and troubleshooting
+- Screenshots as evidence
+
+Repository link:
+https://github.com/mariocraciun14m-droid/glusterfs
+
 # GlusterFS Distributed File System Assignment
 glusterfs assignment
 
