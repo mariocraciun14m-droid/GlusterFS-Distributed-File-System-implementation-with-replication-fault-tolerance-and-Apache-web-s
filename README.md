@@ -36,14 +36,25 @@ The volume used was: `gv0`
 ### GlusterFS Setup
 ![Setup](screenshots/Picture1.png)
 
+This screenshot shows the initial GlusterFS setup and confirms that the storage system was being configured across the virtual machines.
+
+
 ### Volume Info (Replicated)
 ![Volume](screenshots/Picture2.png)
+
+This screenshot shows the volume information after replication was enabled. It confirms that the GlusterFS volume was running in replicated mode with two bricks.
 
 ### Apache Running
 ![Apache](screenshots/Picture3.png)
 
+This screenshot shows the Apache web server running successfully on the Linux Mint machine.
+
+
 ### Web Server Output
 ![Web](screenshots/Picture4.png)
+
+This screenshot shows the web server being accessed through the browser using the Linux Mint IP address. The page displayed “Gluster Web Server”, confirming that the web server was working.
+
 
 ### Replication Test (Client Access from Kali)
 ![Kali Access](screenshots/Picture5.png)
